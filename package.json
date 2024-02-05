@@ -1,0 +1,27 @@
+{
+  "name": "pacjs",
+  "publishConfig": {
+    "access": "public",
+    "tag": "latest"
+  },
+  "version": "0.1.0",
+  "description": "A complete and compact Pactus library, for dapps, wallets and any other tools.",
+  "main": "main.ts",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pacjs/pac.js.git"
+  },
+  "keywords": [
+    "pactus",
+    "pacjs",
+    "blockchain",
+    "web3"
+  ],
+  "author": "zigBalthazar <zigbalthazar@gmail.com> ",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pacjs/pac.js/issues"
+  },
+  "homepage": "https://github.com/pacjs/pac.js#readme"
+}
